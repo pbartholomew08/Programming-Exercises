@@ -1,0 +1,10 @@
+#+TITLE: Programming-Exercises
+
+My solutions to programming exercises.
+
+* Notice
+
+These are my solutions to programming exercises for my own learning, although you're welcome to look
+be aware:
+1) they shouldn't be used as a substitute for doing the exercises yourself
+2) they shouldn't be relied upon to be correct solutions!
